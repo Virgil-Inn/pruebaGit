@@ -5,6 +5,7 @@ a = 2
 b = 3
 c = a+b
 
+f = b * c
+
 d = a * b
 e = b - a
-f = b * c
