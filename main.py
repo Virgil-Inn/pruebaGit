@@ -7,3 +7,4 @@ c = a+b
 
 d = a * b
 e = b - a
+f = b * c
