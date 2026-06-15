@@ -6,3 +6,6 @@ b = 3
 c = a+b
 
 f = b * c
+
+d = a * b
+e = b - a
